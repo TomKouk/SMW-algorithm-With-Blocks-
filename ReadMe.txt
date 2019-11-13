@@ -1,0 +1,1 @@
+SMW algorithm using blocks.
